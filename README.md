@@ -22,4 +22,4 @@
 vue.js/ES6/Webpack
 
 #### 预览地址：
-http://weirongab.xyz/dist/
+http://gen1usg.xyz//dist/
